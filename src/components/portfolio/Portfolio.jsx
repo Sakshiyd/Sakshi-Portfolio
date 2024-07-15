@@ -7,7 +7,7 @@ const items = [
   {
     id: 1,
     title: "WeatherWave",
-    img: "../../../public/weather.png",
+    img: "/weather.png",
     desc: "Developed a weather application using HTML, Tailwind CSS and JavaScript, leveraging the OpenWeatherMap API to provide real-time weather data. Designed and implemented a user-friendlyinterface for displaying weather forecasts, current conditions, and location-based updates.Utilized modern JavaScript techniques such as asynchronous programming (Promises,async/await) to handle API requests efficiently.",
     src:"https://weather-app-by-sakshi.netlify.app/"
   
@@ -17,7 +17,7 @@ const items = [
   {
     id: 2,
     title: "Discord Clone",
-    img: "../../../public/discord.png",
+    img: "/discord.png",
     desc: "Developed the front-end of a Discord clone, real-time chat application, to demonstrate proficiency in modern web development technologies and user interface design.Implemented user-friendly features, such as User Interface: Designed an intuitive and user-friendly interface, ensuring ease of navigation and an engaging user experience and Responsive Design: Ensured the application is fully responsive, providing a consistent experience across desktops, tablets, and mobile devices.",
     src:"https://discord-clone-by-sakshi.netlify.app/"
   }
